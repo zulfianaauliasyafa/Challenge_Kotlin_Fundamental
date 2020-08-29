@@ -31,7 +31,7 @@ fun main(){
     when {
         inputUser.nextInt() == 1 -> {
 
-            //menghitung volume kerucut
+            //hitung volume kerucut
             print("Masukkan tinggi : ")
             kerucut.tinggi = inputUser.nextFloat()
             print("Masukkan jari-jari : ")
